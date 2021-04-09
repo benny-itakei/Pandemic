@@ -1,2 +1,3 @@
 This is my note 3
-This file describes level 3
+Level 3 is the most important
+Level 3 is the most interesting
